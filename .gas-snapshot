@@ -1,0 +1,7 @@
+FundMeTest:testFundFailsWithoutEnoughEth() (gas: 25129)
+FundMeTest:testFundUpdatesFundedDataStructure() (gas: 103183)
+FundMeTest:testMinimumDollarIsTwenty() (gas: 8861)
+FundMeTest:testOwnerIsMsgSender() (gas: 9140)
+FundMeTest:testPriceFeedVersionIsAccurate() (gas: 254)
+FundMeTest:testWithdrawFromMultipleFunders() (gas: 511634)
+FundMeTest:testWithdrawFromMultipleFundersCheaper() (gas: 510735)
